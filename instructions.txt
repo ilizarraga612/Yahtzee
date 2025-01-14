@@ -1,0 +1,30 @@
+The objective of Yahtzee is to score the most points by rolling five dice to make certain combinations.
+Rolling the Dice:
+-Each player takes a turn rolling the five dice.
+-Players can roll the dice up to three times per turn to get the highest-scoring combination.
+-For the first roll, the player rolls all five dice.
+-After the first roll, the player can choose to keep any dice they want and re-roll the rest.
+-Players can also choose to stop after the first or second roll if they have a combination they like.
+Scoring:
+-After rolling, the player chooses a category to score their dice. Each category can only be used once per game.
+-Categories are divided into two sections: Upper and Lower Sections.
+
+*Scoring Categories*
+Upper Section
+-Ones: Sum of all dice showing the number 1.
+-Twos: Sum of all dice showing the number 2.
+-Threes: Sum of all dice showing the number 3.
+-Fours: Sum of all dice showing the number 4.
+-Fives: Sum of all dice showing the number 5.
+-Sixes: Sum of all dice showing the number 6.
+BONUS: If the total score in the Upper Section is 63 or more, the player receives a bonus of 35 points.
+
+Lower Section
+-Three of a Kind: Sum of all dice if at least three dice show the same number.
+-Four of a Kind: Sum of all dice if at least four dice show the same number.
+-Full House: 25 points if three of one number and two of another number.
+-Small Straight: 30 point for four consecutive numbers.
+-Large Straight: 40 point for five consecutive numbers.
+-Yahtzee: 50 points for five of a kind.
+-Chance: Sum of all dice (can used for any combination).
+YAHTZEE BONUS: If a player rolls a Yahtzee after already scoring a Yahtzee, they get a 100 point bonus. They must still place the roll in another category.
